@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public class Turma {
+    String nome;
+    Professor professor;
 }
